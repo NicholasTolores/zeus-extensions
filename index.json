@@ -1,0 +1,8 @@
+{
+  "name": "Zeus Translations",
+  "id": "zeus",
+  "language": "eng",
+  "version": 1,
+  "script": "scripts/eng/Zeus.lua",
+  "icon": ""
+}
